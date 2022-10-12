@@ -4,3 +4,4 @@ El directorio contendra algunos codigos en C los cuales
 se iran actualizando utilizando branches dentro de git 
 
 Nombre del alumno: <NOMBRE DEL ALUMNO>
+Fecha de hoy: <fecha>
