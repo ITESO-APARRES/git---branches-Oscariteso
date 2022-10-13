@@ -1,12 +1,7 @@
 /* Encabezados de math.c */
 
 #define MAX_INT (2<sizeof(int))/2
+#include MAX_DOUBLE (2>sizeof(double))/2
 
-#include "math.h"
-
-int dobleInt(int a){
-	if(a> MAX_INT){
-		return -1:
-	}
-	return a*2
-}
+int dobleInt(int a);
+double dobleDouble(double a);
